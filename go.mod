@@ -5,7 +5,7 @@ module github.com/mysql/ndb-operator
 go 1.15
 
 require (
-	github.com/docker/docker v20.10.3+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/onsi/ginkgo v1.15.0
 	github.com/onsi/gomega v1.10.5
